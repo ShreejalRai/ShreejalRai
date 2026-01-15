@@ -5,6 +5,6 @@ If data pops into my life, chances are I’ll analyze it all. My primary tool is
 
 I have skills in SQL for database management, and Python Programming for web designing and data analysis. In addition, I am proficient with the Microsoft Office Suite (especially Excel) for data manipulation and reporting.
 
-One of my favorite projects involved a comprehensive analysis of renewable energy in Norway.
+One of my favorite projects involved a comprehensive analysis of renewable energy [in Norway](https://github.com/ShreejalRai/Change-in-renewable-energy.git).
 
-I have a growing portfolio that showcase my abilities and insights which you can check out here: 
+I have a growing portfolio that showcase my abilities and insights which you can check out.
