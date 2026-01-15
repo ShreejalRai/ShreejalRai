@@ -3,6 +3,8 @@ I'm Shreejal, a Business Information Systems graduate based in Austraila. I like
 
 If data pops into my life, chances are I’ll analyze it all. My primary tool is Power BI for data visualization, and I’m currently learning R to expand my analytical capabilities.
 
-I have skills in statistical analysis, data cleaning, and creating compelling visualizations. My favorite projects involved a comprehensive analysis of renewable energy in Norway.
+I have skills in SQL for database management, and Python Programming for data analysis. In addition, I am proficient with the Microsoft Office Suite (especially Excel) for data manipulation and reporting.
+
+One of my favorite projects involved a comprehensive analysis of renewable energy in Norway.
 
 I have a growing portfolio that showcase my abilities and insights which you can check out here: 
