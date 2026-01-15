@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Shreejal, a Business Information Systems graduate based in Austraila. I like to unravel data and transform it into actionable insights.
+I'm [Shreejal Rai](linkedin.com/in/shreejal-r-98753a25a), a Business Information Systems graduate based in Austraila. I like to unravel data and transform it into actionable insights.
 
 If data pops into my life, chances are I’ll analyze it all. My primary tool is Power BI for data visualization, and I’m currently learning R to expand my analytical capabilities.
 
